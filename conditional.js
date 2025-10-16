@@ -16,9 +16,7 @@ switch (amarGecheAche > car) {
   case amarGecheAche > car:
     console.log("hurray ! ame car kinmu");
     break;
-  case amarGecheAche > bike:
-    console.log("hurray ! ame car kinmu");
-    break;
+
   default:
     console.log("hurray ! ame kintam nay");
     break;
